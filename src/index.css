@@ -22,6 +22,7 @@
   box-sizing: border-box;
   font-family: 'Fire Sans', sans-serif;
   transition: all 0.4s;
+  overflow: hidden;
 }
 
 body {
